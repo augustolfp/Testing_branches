@@ -7,4 +7,5 @@ function teste() {
 
 function novaFuncao() {
     console.log("Essa função foi implementada na minha primeira branch");
+    console.log("Finalizei essa feature");
 }
