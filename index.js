@@ -9,3 +9,7 @@ function novaFuncao() {
     console.log("Essa função foi implementada na minha primeira branch");
     console.log("Finalizei essa feature");
 }
+
+function outraFuncao() {
+    console.log("Aôba, mais uma função");
+}
