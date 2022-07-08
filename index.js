@@ -4,3 +4,7 @@ function teste() {
     console.log("Terceira modificação");
 
 }
+
+function novaFuncao() {
+    console.log("Essa função foi implementada na minha primeira branch");
+}
